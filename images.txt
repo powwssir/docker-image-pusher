@@ -1,1 +1,1 @@
-kibana:7.17.14
+coopersoft/canal-adapter:v1.1.6
