@@ -1,1 +1,1 @@
-coopersoft/canal-adapter:v1.1.6
+nacos/nacos-server:v2.2.3-slim
